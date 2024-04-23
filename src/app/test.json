@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9,
+    "title": "Classic Navy Blue Baseball Cap",
+    "price": 61,
+    "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+    "images": [
+      "https://i.imgur.com/R3iobJA.jpeg",
+      "https://i.imgur.com/Wv2KTsf.jpeg",
+      "https://i.imgur.com/76HAxcA.jpeg"
+    ],
+    "creationAt": "2024-04-22T21:52:07.000Z",
+    "updatedAt": "2024-04-22T21:52:07.000Z",
+    "category": {
+      "id": 1,
+      "name": "nuevo",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-04-22T21:52:07.000Z",
+      "updatedAt": "2024-04-22T23:59:36.000Z"
+    }
+  }
+]
